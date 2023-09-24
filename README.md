@@ -1,8 +1,8 @@
 # NAZIV2 UPDATE 2.9
-# SUPPORT ALL KARTU & WIFI
-# SCRIPT INI MENGGUNAKAN LISENSI 
-# SCRIPT INI SUPPORT 32 & 64 BIT 
-# PREMIUM FOR SALE 
+SUPPORT ALL KARTU & WIFI
+SCRIPT INI MENGGUNAKAN LISENSI 
+SCRIPT INI SUPPORT 32 & 64 BIT 
+PREMIUM FOR SALE
 COMMAND
 
 pkg update && upgrade
@@ -29,10 +29,10 @@ pip install pwinput
 
 pip install mechanize
 
-git clone https://github.com/NotFound-XD403/ZAFI-BRUTE
+git clone https://github.com/NotFound-XD403/NAZIV2
 
-cd ZAFI-BRUTE
+cd NAZIV2
 
 ls
 
-python Run.py
+python Nazi.py
